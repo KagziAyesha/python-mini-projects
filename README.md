@@ -44,3 +44,18 @@ An interactive **command-line game** where the computer generates a random numbe
 
 ```bash
 python guess_game.py
+```
+##📂 Project Structure
+python-mini-projects/
+│
+├── number-guessing-game/
+│   └── guess_game.py
+│
+├── README.md
+├── LICENSE
+└── .gitignore
+
+##👩‍💻 Author
+Ayesha
+BCA-AI Student
+Learning Python & AI mini projects 🌱
