@@ -4,8 +4,8 @@ print("Welcome to number-guessing game!")
 
 print("Choose Difficulty Level:")
 print("1.Easy (1-50,  10 Attempts)")
-print("1.Easy (1-100,  7 Attempts)")
-print("1.Easy (1-200,  5 Attempts)")
+print("2.Mediam (1-100,  7 Attempts)")
+print("3.Hard (1-200,  5 Attempts)")
 
 choice=input("Enter Your Choice(1/2/3):")
 
