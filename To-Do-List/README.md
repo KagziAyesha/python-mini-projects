@@ -21,10 +21,10 @@ This project helps users manage daily tasks with file storage support.
 ![alt text](<Screenshot 2025-12-25 100550.png>)
 
 ### Adding a Task
-c:\Users\ayesh\OneDrive\Pictures\Screenshots\Screenshot 2025-12-25 100739.png
+![alt text](<Screenshot 2025-12-25 100739.png>)
 
 ### Completed Task
-c:\Users\ayesh\OneDrive\Pictures\Screenshots\Screenshot 2025-12-25 100940.png
+![alt text](<Screenshot 2025-12-25 100940.png>)
 
 ---
 
