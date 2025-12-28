@@ -44,8 +44,8 @@ This project allows users to generate **strong random passwords** with options f
 3. Exit
 
 📌 Example Output
- Generated Password: A9@k!Q2#pL$7m
- Strength: Strong ✅
+Generated Password: A9@k!Q2#pL$7m
+Strength: Strong ✅
 
 💡 Future Improvements
 ▫️Copy password to clipboard
@@ -53,6 +53,8 @@ This project allows users to generate **strong random passwords** with options f
 ▫️Save generated passwords to a file
 ▫️Add password strength meter
 
+```bash
+python password_generator.py
 ```
 ## 📂 Project Structure
 Password-Generator/
