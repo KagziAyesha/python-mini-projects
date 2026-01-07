@@ -58,4 +58,4 @@ python-mini-projects/
 ##👩‍💻 Author
 Ayesha
 BCA-AI Student
-Learning Python & AI mini projects 🌱
+Learning Python & AI mini projects🌱

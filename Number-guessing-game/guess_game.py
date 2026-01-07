@@ -43,4 +43,4 @@ else:
     print("Game over😕!")
     print("The correct number was",number)
 
-print("Thanks for playing☺️")
+print("Thank You for playing☺️")

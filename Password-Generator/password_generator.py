@@ -64,7 +64,7 @@ def main():
         elif choice == "2":
             generate_multiple()
         elif choice == "3":
-            print("Goodbye 👋")
+            print("GoodBye 👋")
             break
         else:
             print("❌ Invalid choice")

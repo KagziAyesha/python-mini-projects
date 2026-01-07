@@ -75,5 +75,5 @@ def main():
             print("Goodbye!")
             break
         else:
-            print("Invalid choice")
+            print("❌Invalid choice")
 main()
