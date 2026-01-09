@@ -19,7 +19,7 @@ else:
     max_number=200
     max_attempt=5
 
-number=random.randint(1, 100)
+number=random.randint(1, max_attempt)
 attempts=0
 
 while attempts < max_attempt:
